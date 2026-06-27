@@ -67,8 +67,8 @@ For contributors or those who want the latest development version:
 
 ``` bash
 # 1. Clone the repository
-git clone https://github.com/UBC-MDS/model_interpretation.git
-cd model_interpretation
+git clone https://github.com/canadasung/ubc-dsci524-ml-model-interpretation.git
+cd ubc-dsci524-ml-model-interpretation
 
 # 2. Create and activate a conda environment (recommended)
 conda env create -f environment.yml
